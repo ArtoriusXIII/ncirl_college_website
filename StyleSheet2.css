@@ -1,0 +1,114 @@
+﻿
+body {
+    background-color:#666;
+    color: #000305;
+    font-family:Arial, 'Lucida Sans Unicode';
+    font-size:87.5%;
+    text-align:left;
+    line-height: 1.5;
+}
+
+a{
+    text-decoration: none;
+}
+
+.body {
+    margin: 0 auto;
+    width: 69.8%;
+    clear: both;
+}
+        
+   
+ 
+ .mainHeader img{
+        width: 30%;
+        height: 220px;
+        border:none;
+        padding:0;
+        margin:10px 1.3% 10px 1.4%; 
+    }
+
+
+.nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    
+  
+
+}
+.nav li {
+    float: left;
+    width:25%; height: 50px; background-color:#444444; text-align:center; padding-top: 15px;
+}
+.nav  a{
+color:white; font-size:20px;
+
+}
+
+
+ 
+ p{
+ 
+ font-size: 20px;
+
+ }
+ 
+	
+label{
+
+	
+	text-align:right;
+	width:150px;
+	padding-right:12px;
+	margin-top:12px;
+	font-size:20px;
+	display: inline;
+	float:left;
+		
+}
+
+
+h6{
+
+font-size:15px;
+margin:0;
+float:left;
+}
+
+input, textarea{
+
+	margin: 12px;
+}
+
+.smallContent h2{
+    color: blue;
+}
+.smallContent .box{
+    height: 299px;
+}
+
+
+
+
+.wrapper_rigth{
+    width:35%;
+    float: right;
+    margin:1%;
+    
+}
+.box{
+    padding: 0px 10px 0px 10px; 
+    border: 2px solid; 
+    text-align: justify;  
+    background-color: #C0C0C0;
+    border-radius:1em;
+    border-color: #0000ff; 
+}
+
+.smallContent p{
+    font-size: 15px;
+}
+
+
